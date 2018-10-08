@@ -1,0 +1,10 @@
+/.metadata/
+/RemoteSystemsTempFiles
+/.sonarlint
+/.recommenders
+.settings
+/auto-test-application/.classpath
+/auto-test-application/.project
+/auto-test-application/log.html
+/automation-framework/.classpath
+/automation-framework/.project
